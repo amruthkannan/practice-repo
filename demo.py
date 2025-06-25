@@ -1,4 +1,3 @@
-print("hello world")
 """Module to calculate the area of a circle."""
 
 def area_of_circle(radius):
