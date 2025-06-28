@@ -1,5 +1,5 @@
 """Module to calculate the area of a circle."""
-
+"""Trying again until i get it right."""
 def area_of_circle(radius):
     """
     Calculate the area of a circle.
@@ -15,8 +15,8 @@ def area_of_circle(radius):
 
 
 def main():
-    """Main function to print area of a circle with radius 10."""
-    r = 10
+    """Main function to print area of a circle with radius 12."""
+    r = 12
     area = area_of_circle(r)
     print(area)
 
